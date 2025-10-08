@@ -1,3 +1,4 @@
+// Leader election between browser tabs
 // vendored from https://github.com/dabblewriter/tab-election/blob/master/src/tab.ts on 2025-10-08
 
 export type OnLeadership = (relinquish: Unsubscribe) => any;
